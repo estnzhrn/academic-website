@@ -17,7 +17,7 @@ abstract: "Online platforms that implement reputation mechanisms usually prevent
 **Presented at:** CRESSE, IDSC of IZA Workshop: Matching Workers and Jobs Online, CESifo Area Conference on the Economics of Digitization, Jornadas de Economía Industrial, Competition and Innovation Summer School, Crowdworking Symposium, Oxford Platform Economy Seminar (University of Oxford), Behavioral/Experimental Economics Reading Group (Humboldt University), DaTEPP Seminar (Padova), LMU Munich, Skema Business School Paris, University of Bremen."
 featured: true
 publication: "Working Paper"
-url_pdf: "pdf/Stenzhorn-lock-in-effects-in-olms.pdf"
+url_pdf: "pdf/Lock-in-effects-in-olms.pdf"
 links:
 - name: CESifo Working Paper No. 9379
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3953015"
