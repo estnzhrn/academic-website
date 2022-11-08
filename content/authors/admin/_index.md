@@ -1,29 +1,33 @@
 ---
-bio: My research interests include comparative political economy, data science and the politics of South Asia.
+bio: My research interests include behavioral economics and the economics of digitization.
 
 education:
   courses:
-  - course: PhD in Government (Political Science)
-    institution: Cornell University
-    year: 2006
-  - course: BA in Political Science and Philosophy
-    institution: John Carroll University
-    year: 1997
+  - course: PhD in Economics
+    institution: University of Bremen
+    year: 2023*
+  - course: M.Sc. in Economics
+    institution: University of Trier
+    year: 2017
+  - course: B.Sc. in Social Sciences
+    institution: University of Trier
+    year: 2014
     
-email: "ejt@gwu.edu"
+email: "stenzhorn@uni-bremen.de"
 
 highlight_name: false
 
 interests:
-- Comparative political economy
-- Data science
-- South Asia
+- Behavioral Economics
+- Economics of Digitization
+- Industrial Organization
+- Competition Policy
 
 organizations:
-- name: The George Washington University
-  url: https://www.gwu.edu/
+- name: University of Bremen
+  url: https://www.uni-bremen.de/en/
   
-role: Associate Professor of Political Science and International Affairs
+role: PhD candidate
 
 social:
 - icon: envelope
@@ -31,27 +35,23 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/eteitelbaum
+  link: https://twitter.com/estnzhrn
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=x146Ra0AAAAJ&hl=en
-- icon: github
+  link: https://scholar.google.co.uk/citations?user=jtinPg4AAAAJ&hl
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/eteitelbaum
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
+  link: https://orcid.org/0000-0001-5749-9461
   
 superuser: true
 
 title: 
 ---
 
-I am an associate professor of political science and international affairs at [The George Washington University](https://www.gwu.edu). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
+I am a PhD candidate at the [Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi) at the [University of Bremen](https://www.uni-bremen.de/en/). My research lies at the intersection of behavioral economics and the economics of digitization, with a focus on platforms, welfare, and regulation. More precisely, my research aims to better understand the technological, legal, and societal challenges that will emerge or are likely to emerge as digitization evolves, in order to identify and anticipate potentially necessary public policy and regulatory actions. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments.
 
-At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/). 
+In March 2018, I was visiting the [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/). In March 2023, I will be visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at [Maastricht University](https://www.maastrichtuniversity.nl/).
 
-I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
+I am on the Economic Job Market during the 2022/2023 academic year. Click {{< staticref "pdf/Stenzhorn-lock-in-effects-in-olms.pdf" "newtab" >}}here{{< /staticref >}} for my job market paper.
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+You can find my full CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
