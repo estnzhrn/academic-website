@@ -7,7 +7,7 @@ author_notes:
 -
 - Corresponding author
 authors: 
-- Fabricio Ciotti
+- Fabrizio Ciotti
 - Lars Hornuf
 - Eliza Stenzhorn
 publication_types: ["3"]
