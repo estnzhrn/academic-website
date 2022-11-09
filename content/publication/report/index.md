@@ -13,7 +13,7 @@ abstract: "The German Small Investor Protection Act of 2015 is intended to provi
 featured: true
 publication: "*ifo DICE Report*, 17(2): 41-51"
 tags: []
-url_pdf: "https://www.ifo.de/publikationen/2019/aufsatz-zeitschrift/exemption-provisions-german-small-investor-protection-act"
+url_pdf: "https:/www.ifo.de/publikationen/2019/aufsatz-zeitschrift/exemption-provisions-german-small-investor-protection-act"
 links: 
 - name: German translation
   url: "https://www.ifo.de/publikationen/2019/aufsatz-zeitschrift/die-befreiungsvorschriften-des-kleinanlegerschutzgesetzes"
