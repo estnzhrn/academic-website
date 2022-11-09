@@ -18,4 +18,3 @@ links:
 - name: German translation
   url: "https://www.ifo.de/publikationen/2019/aufsatz-zeitschrift/die-befreiungsvorschriften-des-kleinanlegerschutzgesetzes"
 ---
-
