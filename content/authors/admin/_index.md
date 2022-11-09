@@ -5,7 +5,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Bremen
-    year: 2023*
+    year: 2023
   - course: M.Sc. in Economics
     institution: University of Trier
     year: 2017
