@@ -1,8 +1,7 @@
 ---
 date: ""
 title: "Behavioral Finance"
-summary: Bachelor, University of Bremen, since 2020, each Winter
-
+summary: Bachelor, University of Bremen, since Fall 2020
 #toc: false
 #draft: true
 #menu:
@@ -13,4 +12,4 @@ summary: Bachelor, University of Bremen, since 2020, each Winter
 #weight: 10
 ---
 
-Bachelor, University of Bremen, since 2020, each Winter
+Bachelor, University of Bremen, since Fall 2020
