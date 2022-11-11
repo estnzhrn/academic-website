@@ -1,7 +1,7 @@
 ---
 date: ""
 title: "Applied Microeconometrics Using Stata"
-summary: Bachelor, University of Bremen, since 2021, each Summer
+summary: Bachelor, University of Bremen, since 2021, each Summer Semester
 #toc: false
 #draft: true
 #menu:
@@ -12,4 +12,4 @@ summary: Bachelor, University of Bremen, since 2021, each Summer
 #weight: 10
 ---
 
-Bachelor, University of Bremen, since 2021, each Summer
+Bachelor, University of Bremen, since 2021, each Summer Semester
