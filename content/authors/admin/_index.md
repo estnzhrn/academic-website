@@ -48,7 +48,7 @@ superuser: true
 title: 
 ---
 
-I am a PhD candidate at the [University of Bremen, Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi). My research interests include behavioral economics, industrial organization, and the economics of digitization. More precisely, I am interested in better understanding the economic challenges arising from the digital transformation, in order to identify and anticipate necessary public policy and regulatory actions. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments.
+I am a PhD candidate at the [Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi) at the University of Bremen. My research interests include behavioral economics, industrial organization, and the economics of digitization. More precisely, I am interested in better understanding the economic challenges arising from the digital transformation, in order to identify and anticipate necessary public policy and regulatory actions. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments.
 
 In March 2018, I was visiting the [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/). In March 2023, I will be visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at [Maastricht University](https://www.maastrichtuniversity.nl/).
 
