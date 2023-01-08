@@ -27,7 +27,7 @@ organizations:
 - name: University of Bremen
   url: https://www.uni-bremen.de/en/
   
-role: PhD candidate
+role: Econ PhD candidate
 
 social:
 - icon: envelope
@@ -48,7 +48,7 @@ superuser: true
 title: 
 ---
 
-I am a PhD candidate at the [Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi) at the [University of Bremen](https://www.uni-bremen.de/en/). My research lies at the intersection of behavioral economics and the economics of digitization, with a focus on welfare, competition, and regulation. More precisely, I am interested in better understanding the technological, legal, and societal challenges arising from the digital transformation, in order to identify and anticipate necessary public policy and regulatory actions. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments.
+I am a PhD candidate at the [Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi) at the [University of Bremen](https://www.uni-bremen.de/en/). My research lies at the intersection of behavioral economics and the economics of digitization, with a focus on welfare, competition, and regulation. More precisely, I am interested in better understanding the economic challenges arising from the digital transformation, in order to identify and anticipate necessary public policy and regulatory actions. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments.
 
 In March 2018, I was visiting the [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/). In March 2023, I will be visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at [Maastricht University](https://www.maastrichtuniversity.nl/).
 
