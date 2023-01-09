@@ -1,6 +1,6 @@
 ---
 title: "Are sustainability-oriented investors different? Evidence from equity crowdfunding"
-date: 2021-10-30
+date: 2022-02-28
 publishDate: 
 authors: ["Lars Hornuf", "Eliza Stenzhorn", "Tim Vintis"]
 publication_types: ["2"]
