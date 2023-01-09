@@ -1,6 +1,6 @@
 ---
 title: "The local bias in equity crowdfunding: Behavioral anomaly or rational preference?"
-date: 
+date: 2022
 publishDate: 
 authors: ["Lars Hornuf", "Matthias Schmitt", "Eliza Stenzhorn"]
 publication_types: ["2"]
