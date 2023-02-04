@@ -52,6 +52,4 @@ I am a PhD candidate at the [Faculty of Business Studies and Economics](https://
 
 In March 2023, I will be visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at [Maastricht University](https://www.maastrichtuniversity.nl/).
 
-I am on the Economic Job Market during the 2022/2023 academic year. Click {{< staticref "pdf/Lock-in-effects-in-olms.pdf" "newtab" >}}here{{< /staticref >}} for my job market paper.
-
 You can find my full CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
