@@ -9,7 +9,7 @@ title: Teaching Assistantships
 Below is a list of the courses I have been assisting in. 
 
 **Applied Microeconometrics Using Stata**
-<p>Bachelor, University of Bremen, since 2021, each Summer</p>
+<br>Bachelor, University of Bremen, since 2021, each Summer</br>
 
 **Behavioral Finance**
 Bachelor, University of Bremen, since 2020, each Winter
