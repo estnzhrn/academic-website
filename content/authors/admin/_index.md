@@ -51,5 +51,3 @@ title:
 I am a PhD candidate at the [Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi) at the [University of Bremen](https://www.uni-bremen.de/en/). My research interests include behavioral economics, industrial organization, and regulation. I am interested in better understanding the economic challenges arising from the digital transformation, in order to identify and anticipate necessary public policy and regulatory actions. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments.
 
 In March 2023, I will be visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at [Maastricht University](https://www.maastrichtuniversity.nl/).
-
-You can find my full CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
