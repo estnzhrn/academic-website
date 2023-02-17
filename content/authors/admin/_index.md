@@ -24,7 +24,7 @@ interests:
 - Competition Policy
 
 organizations:
-- name: University of Bremen, Faculty of Business Studies and Economics
+- name: University of Bremen
   url: https://www.uni-bremen.de/en
   
 role: PhD candidate in Economics
