@@ -11,7 +11,6 @@ url_pdf: ""
 links:
 - name: DOI
   url: "https://doi.org/10.1111/corg.12260"
-- name: Video
-  url: "https://www.youtube.com/watch?v=w_4lIfnOaQY"
+<!-- name: Video; url: "https://www.youtube.com/watch?v=w_4lIfnOaQY" -->
 ---
 
