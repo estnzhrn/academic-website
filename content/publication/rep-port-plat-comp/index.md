@@ -1,5 +1,5 @@
 ---
-title: "Experimental evidence on reputation portability and platform competition"
+title: "Data portability and platform competition: An experimental analysis"
 date: 2022-11-07
 publishDate: 
 authors:
