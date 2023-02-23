@@ -48,6 +48,6 @@ superuser: true
 title: 
 ---
 
-I am a PhD candidate in Economics at the [Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi) at the [University of Bremen](https://www.uni-bremen.de/en/). My research interests are in behavioral economics, industrial organization, and the economics of digitization. Most of my recent work is dedicated to regulatory questions related to data portability in online markets. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
+I am a PhD candidate in Economics at the [Faculty of Business Studies and Economics](https://www.uni-bremen.de/en/wiwi) at the [University of Bremen](https://www.uni-bremen.de/en/). My primary research fields include behavioral economics, industrial organization, and the economics of digitization. Most of my recent work is dedicated to regulatory questions related to data portability in online markets. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
 
 In March, I will be visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at [Maastricht University](https://www.maastrichtuniversity.nl/).
