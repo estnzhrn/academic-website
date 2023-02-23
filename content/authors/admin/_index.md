@@ -3,13 +3,13 @@ bio: My research interests include behavioral economics and the economics of dig
 
 education:
   courses:
-  - course: Ph.D. in Economics
+  - course: PhD in Economics
     institution: University of Bremen
     year: since December 2017
-  - course: M.Sc. in Economics
+  - course: MSc in Economics
     institution: University of Trier
     year: 2017
-  - course: B.Sc. in Social Sciences
+  - course: BSc in Social Sciences
     institution: University of Trier
     year: 2014
     
