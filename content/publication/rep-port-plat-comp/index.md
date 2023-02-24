@@ -1,5 +1,5 @@
 ---
-title: "Data portability and platform competition: An experimental analysis"
+title: "Data portability and platform competition in two-sided markets"
 date: 2022-11-07
 publishDate: 
 authors:
