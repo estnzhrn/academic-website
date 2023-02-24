@@ -21,3 +21,6 @@ Below is a list of the courses I have been assisting in.
 
 **Introduction to Business Administration, Economics and Social Sciences**
 <br>Bachelor, Trier University, Winter 2014 and Summer 2016</br>
+
+**Thesis Supervision**
+<br> Bachelor and Master, University of Bremen, since 2017
