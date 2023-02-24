@@ -7,10 +7,10 @@ education:
     institution: University of Bremen
     year: since December 2017
   - course: MSc in Economics
-    institution: University of Trier
+    institution: Trier University
     year: 2017
   - course: BSc in Social Sciences
-    institution: University of Trier
+    institution: Trier University
     year: 2014
     
 email: "stenzhorn@uni-bremen.de"
