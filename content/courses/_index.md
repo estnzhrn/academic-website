@@ -20,4 +20,4 @@ Below is a list of the courses I have been assisting in.
 {{< staticref "pdf/Evaluation-Corporate Finance-Winter2021.pdf" "newtab" >}}Evaluation Winter 2021{{< /staticref >}} (overall score 1.4, on a scale 1 "very good" to 5 "poorly"), in German only
 
 **Introduction to Business Administration, Economics and Social Sciences**
-<br>Bachelor, University of Trier, Winter 2014 and Summer 2016</br>
+<br>Bachelor, Trier University, Winter 2014 and Summer 2016</br>
