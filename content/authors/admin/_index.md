@@ -20,8 +20,9 @@ highlight_name: false
 interests:
 - Behavioral Economics
 - Industrial Organization
-- Economics of Digitization
 - Competition Policy
+- Economics of Digitization
+
 
 organizations:
 - name: University of Bremen
