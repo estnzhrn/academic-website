@@ -19,8 +19,8 @@ highlight_name: false
 
 interests:
 - Behavioral Economics
-- Economics of Digitization
 - Industrial Organization
+- Economics of Digitization
 - Competition Policy
 
 organizations:
