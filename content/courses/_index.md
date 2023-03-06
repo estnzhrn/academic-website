@@ -16,8 +16,8 @@ Below is a list of the courses I have been assisting in.
 
 **Corporate Finance**
 <br>Bachelor, University of Bremen, 2020--2023</br>
-{{< staticref "pdf/Evaluation-Corporate Finance-Winter2022.pdf" "newtab" >}}Evaluation Winter 2022{{< /staticref >}} (overall score 1.9, on a scale 1 "very good" to 5 "poorly"), in German only<br>
-{{< staticref "pdf/Evaluation-Corporate Finance-Winter2021.pdf" "newtab" >}}Evaluation Winter 2021{{< /staticref >}} (overall score 1.4, on a scale 1 "very good" to 5 "poorly"), in German only
+{{< staticref "pdf/Evaluation-Corporate Finance-Winter2022.pdf" "newtab" >}}Evaluation Winter 2022{{< /staticref >}} (on a scale 1 "very good" to 5 "poorly"), in German only<br>
+{{< staticref "pdf/Evaluation-Corporate Finance-Winter2021.pdf" "newtab" >}}Evaluation Winter 2021{{< /staticref >}} (on a scale 1 "very good" to 5 "poorly"), in German only
 
 **Introduction to Business Administration, Economics and Social Sciences**
 <br>Bachelor, Trier University, Winter 2014 and Summer 2016</br>
