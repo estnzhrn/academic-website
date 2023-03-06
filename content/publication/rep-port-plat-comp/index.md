@@ -1,5 +1,5 @@
 ---
-title: "Data portability and platform competition in two-sided markets"
+title: "Reputation portability and platform competition in two-sided markets"
 date: 2022-11-07
 publishDate: 
 authors:
