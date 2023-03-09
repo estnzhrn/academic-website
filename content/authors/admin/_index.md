@@ -21,6 +21,7 @@ interests:
 - Behavioral Economics
 - Industrial Organization
 - Competition Policy
+- Economics of Digitization
 
 organizations:
 - name: University of Bremen
