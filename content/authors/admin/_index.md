@@ -15,7 +15,7 @@ education:
     
 email: "stenzhorn@uni-bremen.de"
 
-highlight_name: Eliza Stenzhorn
+highlight_name: false
 
 interests:
 - Behavioral Economics
