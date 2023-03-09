@@ -51,5 +51,3 @@ title:
 I am a PhD candidate in Economics at the University of Bremen. My primary research fields are behavioral economics and industrial organization. I am particularly interested in online markets and digital transformation, with a focus on competition, regulation, and welfare. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
 
 I am currently visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at Maastricht University.
-
-You can download my CV {{< staticref "/static/pdf/cv-eliza-stenzhorn.pdf" >}} here {{< /staticref >}}.
