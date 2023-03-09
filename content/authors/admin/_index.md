@@ -15,7 +15,7 @@ education:
     
 email: "stenzhorn@uni-bremen.de"
 
-highlight_name: true
+highlight_name: Eliza Stenzhorn
 
 interests:
 - Behavioral Economics
@@ -52,4 +52,4 @@ I am a PhD candidate in Economics at the University of Bremen. My primary resear
 
 I am currently visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at Maastricht University.
 
-You can download my CV [here](/static/pdf/cv-eliza-stenzhorn.pdf).
+You can download my CV [here](static/pdf/cv-eliza-stenzhorn.pdf).
