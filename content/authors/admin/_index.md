@@ -25,7 +25,7 @@ interests:
 
 organizations:
 - name: University of Bremen
-  url: 
+  url: https://www.uni-bremen.de/en/
   
 role: PhD candidate in Economics
 
