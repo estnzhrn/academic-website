@@ -48,6 +48,6 @@ superuser: true
 title: 
 ---
 
-I am a PhD candidate in Economics at the University of Bremen. My primary research fields are behavioral economics and industrial organization. I am particularly interested in online markets and digital transformation, with a focus on competition, regulation, and welfare. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
+I am a PhD candidate in Economics at the University of Bremen. My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on digital platforms, regulation, and welfare. 
 
-I am currently visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at Maastricht University.
+Currently, I am visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at Maastricht University.
