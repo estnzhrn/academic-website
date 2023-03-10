@@ -3,9 +3,6 @@ bio: My research interests include behavioral economics and the economics of dig
 
 education:
   courses:
-  - course: PhD in Economics
-    institution: University of Bremen
-    year: since December 2017
   - course: MSc in Economics
     institution: Trier University
     year: 2017
@@ -48,6 +45,6 @@ superuser: true
 title: 
 ---
 
-I am a PhD candidate in Economics at the University of Bremen. My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on digital platforms, regulation, and welfare. 
+I am a PhD candidate in Economics at the University of Bremen. My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on digital platforms, regulation, and welfare. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
 
 Currently, I am visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at Maastricht University.
