@@ -39,10 +39,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-5749-9461
-  - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/estnzhrn
-superuser: true
 
 title: 
 ---
