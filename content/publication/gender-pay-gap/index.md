@@ -1,5 +1,5 @@
 ---
-title: "The gender pay gap: The role of skills and application behavior"
+title: "The role of skills and application behavior on gender wage disparities"
 date: 2022-11-07
 publishDate: 
 authors:
