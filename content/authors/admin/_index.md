@@ -50,4 +50,4 @@ I am a Doctoral candidate in Economics at the University of Bremen. My primary r
 
 Currently, I am visiting the [Department of Microeconomics and Public Economics](https://www.maastrichtuniversity.nl/research/department-microeconomics-and-public-economics) at Maastricht University.
 
-You can download my CV {{< staticref "static/pdf/teitelbaum_cv.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
