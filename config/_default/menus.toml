@@ -4,15 +4,15 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Research"
-  url = "#working-papers"
-  weight = 20
-  
- [[main]]
     name = "CV"
     url = "pdf/cv-eliza-stenzhorn.pdf"
-    weight = 40
-  
+    weight = 20
+    
+[[main]]
+  name = "Research"
+  url = "#working-papers"
+  weight = 40
+ 
 [[main]]
   name = "Teaching"
   url = "courses/"
