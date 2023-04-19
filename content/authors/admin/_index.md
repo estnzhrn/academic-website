@@ -43,7 +43,7 @@ social:
   icon_pack: fab
   link: https://github.com/estnzhrn
 
-title: 
+title: Welcome
 ---
 
 I am a Doctoral candidate in Economics at the University of Bremen. My primary research fields are behavioral economics and the economics of digitization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on platforms, regulation, and welfare. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
