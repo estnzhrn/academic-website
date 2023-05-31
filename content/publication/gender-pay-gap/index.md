@@ -1,6 +1,6 @@
 ---
-title: "The role of skills and application behavior on gender wage disparities"
-date: 2022-11-07
+title: "The gender pay gap in online freelancing: The role of skills and application behavior"
+date: 2023-07-1
 publishDate: 
 authors:
 - Otto Kässi
