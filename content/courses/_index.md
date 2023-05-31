@@ -6,7 +6,6 @@ layout: book
 title: Teaching Assistantships
 ---
 
-Below is a list of the courses I have been assisting in. 
 <br></br>
 **Thesis Supervision**
 <br> Bachelor and Master, University of Bremen, since 2017</br>
