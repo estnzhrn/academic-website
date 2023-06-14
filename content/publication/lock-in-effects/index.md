@@ -2,10 +2,6 @@
 title: "Lock-in effects in online labor markets"
 date: 2023-04-19
 publishDate: 
-author_notes:
--
--
-- Corresponding author
 authors: 
 - Fabrizio Ciotti
 - Lars Hornuf
