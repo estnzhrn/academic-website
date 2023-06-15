@@ -17,8 +17,8 @@ highlight_name: false
 interests:
 - Behavioral Economics
 - Economics of Digitization
-- Applied Microeconomics
 - Industrial Organization
+- Applied Microeconomics
 
 organizations:
 - name: University of Bremen
