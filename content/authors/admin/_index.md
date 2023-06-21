@@ -24,7 +24,7 @@ organizations:
 - name: University of Bremen
   url: https://www.uni-bremen.de/en/
   
-role: Doctoral candidate in Economics
+role: Doctoral Candidate
 
 social:
 - icon: envelope
