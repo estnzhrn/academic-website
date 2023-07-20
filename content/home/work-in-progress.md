@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 30
 
 title: Work in Progress
 subtitle: ""
