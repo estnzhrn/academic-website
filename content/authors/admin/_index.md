@@ -2,7 +2,10 @@
 bio: 
 
 education:
-  courses:
+  courses: 
+  - course: PhD in Economics (expected 2023)
+    institution: University of Bremen
+    year:
   - course: MSc in Economics
     institution: Trier University
     year: 
