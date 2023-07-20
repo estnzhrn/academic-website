@@ -1,14 +1,14 @@
 ---
-bio: My research interests include behavioral economics and the economics of digitization.
+bio: 
 
 education:
   courses:
   - course: MSc in Economics
     institution: Trier University
-    year: 2017
+    year: 
   - course: BSc in Social Sciences
     institution: Trier University
-    year: 2014
+    year: 
     
 email: "stenzhorn@uni-bremen.de"
 
@@ -47,3 +47,5 @@ title:
 ---
 
 I am a Doctoral candidate at the University of Bremen. My primary research fields are behavioral economics and the economics of digitization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on platforms, regulation, and welfare. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
+
+In January 2024, I am going to start a position as Postdoctoral Researcher at the Department of Digital Economy at ZEW.
