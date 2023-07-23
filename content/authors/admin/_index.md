@@ -52,6 +52,7 @@ title:
 
 I am a Doctoral candidate at the University of Bremen. My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on competition, regulation, and welfare. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
 
-In January 2024, I am going to start a position as Postdoctoral Researcher at the [Department of Digital Economy](https://www.zew.de/en/research-at-zew/digital-economy#) at ZEW.
+
+Starting from January 2024, I will be taking on a role as a Postdoctoral Researcher in the [Department of Digital Economy](https://www.zew.de/en/research-at-zew/digital-economy#) at ZEW.
 
 You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
