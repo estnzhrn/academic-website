@@ -15,7 +15,7 @@ education:
     
 email: "stenzhorn@uni-bremen.de"
 
-highlight_name: false
+highlight_name: true
 
 interests:
 - Behavioral Economics
