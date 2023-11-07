@@ -6,7 +6,7 @@ authors:
 - OK
 - Eliza Stenzhorn
 - OT
-publication_types: ["0"]
+publication_type: ["0"]
 abstract: ""
 featured: true
 publication: "Work in Progress"
