@@ -8,6 +8,6 @@ publication_types: ["0"]
 abstract: ""
 featured: true
 publication: ""
-url_pdf: ""
+url_pdf: 
 ---
 
