@@ -3,7 +3,7 @@ bio:
 
 education:
   courses: 
-  - course: PhD in Economics (expected 2023)
+  - course: PhD in Economics (expected 2024)
     institution: University of Bremen
     year:
   - course: MSc in Economics
