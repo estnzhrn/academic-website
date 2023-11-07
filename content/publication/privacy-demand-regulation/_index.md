@@ -1,6 +1,6 @@
 ---
 title: "Beliefs on online tracking and support for privacy regulations"
-date: 2022-11-07
+date: 2023-11-07
 publishDate: 
 authors:
 - Eliza Stenzhorn
