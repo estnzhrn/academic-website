@@ -13,7 +13,7 @@ publication: ""
 url_pdf: 
 links:
 - name: Working Paper
-- url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631160"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631160"
 ---
 
 
