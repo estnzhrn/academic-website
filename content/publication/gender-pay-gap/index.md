@@ -12,7 +12,7 @@ featured: true
 publication: ""
 url_pdf: 
 links:
-- name: SSRN Working Paper
+- name: Working Paper
 - url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631160"
 ---
 
