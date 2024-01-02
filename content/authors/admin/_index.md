@@ -21,13 +21,13 @@ interests:
 - Behavioral Economics
 - Industrial Organization
 - Competition Policy
-- Privacy
+- Data Privacy
 
 organizations:
-- name: University of Bremen
-  url: https://www.uni-bremen.de/en/
+- name: ZEW Mannheim
+  url: https://www.zew.de/en/research-at-zew/digital-economy
   
-role: Doctoral Candidate
+role: Postdoctoral Researcher
 
 social:
 - icon: envelope
@@ -49,8 +49,6 @@ social:
 title: Eliza Stenzhorn
 ---
 
-I am a Doctoral candidate at the University of Bremen. My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on competition, welfare, and regulation. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
-
-In January 2024, I will join the [Digital Economy Department](https://www.zew.de/en/research-at-zew/digital-economy#) at ZEW as a Postdoctoral Researcher.
+I am a Postdoctoral Researcherat the ZEW  at the [Digital Economy Department](https://www.zew.de/en/research-at-zew/digital-economy#). My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on competition, welfare, and regulation. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
 
 You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
