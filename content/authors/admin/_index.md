@@ -49,6 +49,6 @@ social:
 title: Eliza Stenzhorn
 ---
 
-I am a Postdoctoral Researcherat the ZEW  at the [Digital Economy Department](https://www.zew.de/en/research-at-zew/digital-economy#). My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on competition, welfare, and regulation. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
+I am a Postdoctoral Researcher at the [Digital Economy Department](https://www.zew.de/en/research-at-zew/digital-economy#) at ZEW. My primary research fields are behavioral economics and industrial organization. I am specifically interested in exploring the economic implications of digital transformation, with a focus on competition, welfare, and regulation. Methodologically, I usually work with observational data and conduct online, laboratory, and field experiments. 
 
 You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
