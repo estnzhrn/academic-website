@@ -1,5 +1,5 @@
 ---
-title: "Beliefs on shadow profiling and support for government intervention"
+title: "Beliefs about online data collection practices and digital privacy preferences"
 date: 2024-01-03
 publishDate: 
 authors:
