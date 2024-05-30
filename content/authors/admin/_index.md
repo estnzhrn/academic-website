@@ -20,7 +20,6 @@ highlight_name: false
 interests:
 - Behavioral Economics
 - Industrial Organization
-- Political Economy
 - Digitization
 
 organizations:
