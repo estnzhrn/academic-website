@@ -20,6 +20,7 @@ highlight_name: false
 interests:
 - Behavioral Economics
 - Industrial Organization
+- Regulation
 - Digitization
 
 organizations:
@@ -48,6 +49,6 @@ social:
 title: Eliza Stenzhorn
 ---
 
-I am a Postdoctoral Researcher at the [Digital Economy Research Group at ZEW](https://www.zew.de/en/research-at-zew/digital-economy#) -- Leibniz Centre for European Economic Research in Mannheim. I am also a junior member of the [Mannheim Centre for Competition and Innovation](https://www.macci-mannheim.eu/macci-mannheim-centre-for-competition-and-innovation/home) (MaCCI). My primary research fields are behavioral economics and industrial organization, with a specific interest in exploring the economic implications of digital transformation. As an empirical researcher, I typically work with observational data and conduct surveys and experiments.
+I am a Postdoctoral Researcher at the [Digital Economy Research Group at ZEW](https://www.zew.de/en/research-at-zew/digital-economy#) -- Leibniz Centre for European Economic Research in Mannheim and I co-coordinate the [Mannheim Centre for Competition and Innovation](https://www.macci-mannheim.eu/macci-mannheim-centre-for-competition-and-innovation/home) (MaCCI). My primary research fields are behavioral economics and industrial organization, with a specific interest in exploring the economic implications of digital transformation. As an empirical researcher, I typically work with observational data and conduct surveys and experiments.
 
 You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
