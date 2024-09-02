@@ -11,8 +11,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Work in Progress
-subtitle: "(selected)"
+title: Selected Work in Progress
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
