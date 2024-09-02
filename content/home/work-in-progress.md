@@ -12,7 +12,7 @@ headless: true
 weight: 30
 
 title: Work in Progress
-subtitle: ""
+subtitle: "(selected)"
 
 content:
   # Page type to display. E.g. post, talk, publication...
