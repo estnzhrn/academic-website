@@ -11,6 +11,6 @@ abstract: "Online platforms that implement reputation mechanisms usually prevent
 featured: true
 publication: "*Journal of Economics & Management Strategy*, forthcoming"
 url_pdf: ""
-links:
+links: ""
 ---
 
