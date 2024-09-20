@@ -1,17 +1,7 @@
 ---
 bio: 
 
-education:
-  courses: 
-  - course: Dr. rer. pol. (PhD) in Economics (expected 2024)
-    institution: University of Bremen
-    year:
-  - course: MSc in Economics
-    institution: Trier University
-    year: 
-  - course: BSc in Social Sciences
-    institution: Trier University
-    year: 
+
     
 email: "eliza.stenzhorn@zew.de"
 
