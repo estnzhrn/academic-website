@@ -8,8 +8,8 @@ email: "eliza.stenzhorn@zew.de"
 highlight_name: false
 
 interests:
-- Behavioral Economics
 - Industrial Organization
+- Behavioral Economics
 - Regulation
 - Digitization
 
