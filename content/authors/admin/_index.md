@@ -39,6 +39,6 @@ social:
 title: Eliza Stenzhorn
 ---
 
-I am a Postdoctoral Researcher at the [Digital Economy Research Group at ZEW](https://www.zew.de/en/research-at-zew/digital-economy#) -- Leibniz Centre for European Economic Research in Mannheim. I also co-coordinate the [Mannheim Centre for Competition and Innovation](https://www.macci-mannheim.eu/macci-mannheim-centre-for-competition-and-innovation/home) (MaCCI). 
+I am a Postdoctoral Researcher at the [ZEW](https://www.zew.de/) -- Leibniz Centre for European Economic Research in Mannheim. I also co-coordinate the [Mannheim Centre for Competition and Innovation](https://www.macci-mannheim.eu/macci-mannheim-centre-for-competition-and-innovation/home) (MaCCI). 
 
 You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
