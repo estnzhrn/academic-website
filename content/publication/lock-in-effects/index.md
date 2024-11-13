@@ -12,6 +12,6 @@ featured: false
 publication: "*Journal of Economics & Management Strategy*, forthcoming"
 links:
 - name: DOI
-  url: "https://doi.org/10.1111/jems.12612"
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/jems.12612"
 ---
 
