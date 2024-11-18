@@ -7,12 +7,6 @@ email: "eliza.stenzhorn@zew.de"
 
 highlight_name: false
 
-interests:
-- Industrial Organization
-- Behavioral Economics
-- Regulation
-- Digitization
-
 organizations:
 - name: ZEW Mannheim
   url: https://www.zew.de/en/research-at-zew/digital-economy
