@@ -3,7 +3,7 @@ bio:
 
 
     
-email: "eliza.stenzhorn [[at]] zew.de"
+email: "eliza.stenzhorn@zew.de"
 
 highlight_name: false
 
