@@ -12,10 +12,10 @@ weight: 100
 title: Contact
 subtitle:
 contact_links:
-    - icon: linkedin
-      icon_pack: fab
-      name: LinkedIn
-      link: https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/'
+
 
 content:
   # Automatically link email and phone or display as text?
