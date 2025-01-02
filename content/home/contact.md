@@ -25,11 +25,12 @@ content:
   #      # Enable CAPTCHA challenge to reduce spam?
   #      captcha: false
 
-  links:
-    - icon: linkedin
-      icon_pack: fab
-      link: "https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/"
-  
+links:
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/"
+    icon: fab fa-linkedin
+    new_tab: true
+    
 design:
   columns: '2'
 ---
