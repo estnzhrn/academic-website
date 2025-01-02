@@ -26,7 +26,7 @@ content:
   #      captcha: false
 
 links:
-  - label: "LinkedIn"
+  - label: linkedin
     url: "https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/"
     icon: fab fa-linkedin
     new_tab: true
