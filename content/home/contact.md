@@ -15,11 +15,6 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
 
 design:
   columns: '2'
