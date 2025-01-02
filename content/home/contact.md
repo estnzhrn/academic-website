@@ -11,16 +11,15 @@ weight: 100
 
 title: Contact
 subtitle:
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM ME
-    link: 'https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/'
-
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/Twitter'
 
 design:
   columns: '2'
