@@ -26,10 +26,9 @@ content:
   #      captcha: false
 
   links:
-    - label: "LinkedIn"
-      icon: fab fa-linkedin
-      url: "https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/"
-      new_tab: true
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/
   
 design:
   columns: '2'
