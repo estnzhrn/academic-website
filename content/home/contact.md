@@ -32,5 +32,5 @@ links:
     new_tab: true
     
 design:
-  columns: '2'
+  columns: '1'
 ---
