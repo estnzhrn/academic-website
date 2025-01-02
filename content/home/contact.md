@@ -28,8 +28,9 @@ content:
 contact_links:
     - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/'
+      name: LinkedIn
+      link: https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/
+
     
 design:
   columns: '2'
