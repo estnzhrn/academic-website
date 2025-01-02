@@ -17,13 +17,19 @@ content:
   autolink: true
   
   # Email form provider
- # form:
-#    provider: formspree
-#    formspree:
-#      id: test
-#    netlify:
-#      # Enable CAPTCHA challenge to reduce spam?
-#      captcha: false
+  # form:
+  #    provider: formspree
+  #    formspree:
+  #      id: test
+  #    netlify:
+  #      # Enable CAPTCHA challenge to reduce spam?
+  #      captcha: false
+
+  links:
+    - label: "LinkedIn"
+      icon: fab fa-linkedin
+      url: "https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/"
+      new_tab: true
   
 design:
   columns: '2'
