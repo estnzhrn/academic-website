@@ -26,7 +26,7 @@ content:
   #      captcha: false
 
 contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
       name: DM Me
       link: 'https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/'
