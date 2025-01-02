@@ -12,8 +12,9 @@ weight: 100
 title: Contact
 subtitle:
 contact_links:
-  - icon: linkedin
+  - icon: twitter
     icon_pack: fab
+    name: DM ME
     link: 'https://www.linkedin.com/in/eliza-stenzhorn-7621bb337/'
 
 
