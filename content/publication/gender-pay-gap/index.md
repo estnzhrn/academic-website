@@ -1,5 +1,5 @@
 ---
-title: "Skills, job application behavior and the gender wage gap: Evidence from online freelancing"
+title: "Skills, job application strategies, and the gender wage gap: Evidence from online freelancing"
 date: 2024-03-06
 publishDate: 
 authors:
