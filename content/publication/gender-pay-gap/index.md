@@ -13,7 +13,7 @@ publication: ""
 url_pdf: ""
 links:
 - name: ZEW Discussion Paper
-  url: "https://panprod.zew.local:83/DiscussionPaper/Status.asp?autoopen=1&instanceID=663"
+  url: "https://ftp.zew.de/pub/zew-docs/dp/dp25016.pdf"
 ---
 
 
