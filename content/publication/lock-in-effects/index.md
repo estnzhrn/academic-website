@@ -13,7 +13,5 @@ publication: "*Journal of Economics & Management Strategy*, forthcoming"
 links:
 - name: DOI
   url: "https://onlinelibrary.wiley.com/doi/full/10.1111/jems.12612"
-- name: Video presentation
-  url:  "https://www.youtube.com/watch?v=w_4lIfnOaQY"
 ---
 
