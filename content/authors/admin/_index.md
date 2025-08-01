@@ -30,7 +30,7 @@ social:
 title: Eliza Stenzhorn
 ---
 
-I am currently a Postdoctoral Researcher at the [ZEW](https://www.zew.de/) -- Leibniz Centre for European Economic Research in Mannheim. I also co-coordinate the [Mannheim Centre for Competition and Innovation](https://www.macci-mannheim.eu/macci-mannheim-centre-for-competition-and-innovation/home) (MaCCI). 
+I am a Postdoctoral Researcher at the [ZEW](https://www.zew.de/) -- Leibniz Centre for European Economic Research in Mannheim. I also co-coordinate the [Mannheim Centre for Competition and Innovation](https://www.macci-mannheim.eu/macci-mannheim-centre-for-competition-and-innovation/home) (MaCCI). 
 
 I am an applied microeconomist. My research interests lie at the intersection of behavioral economics and industrial organization, with a focus on the economic implications of digital transformation. Methodologically, I work with observational data and conduct surveys and experiments.
 
