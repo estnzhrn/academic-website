@@ -34,4 +34,4 @@ I am a Postdoctoral Researcher at the [ZEW](https://www.zew.de/) -- Leibniz Cent
 
 I am an applied microeconomist. My research interests lie at the intersection of behavioral economics and industrial organization, with a focus on the economic implications of digital transformation. Methodologically, I work with observational data and conduct surveys and experiments.
 
-You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
+# You can download my CV {{< staticref "pdf/cv-eliza-stenzhorn.pdf" "newtab" >}}here{{< /staticref >}}.
