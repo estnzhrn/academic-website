@@ -14,11 +14,6 @@
   weight = 20
   
 [[main]]
-  name = "CV"
-  url = "pdf/cv-eliza-stenzhorn.pdf"
-  weight = 45
-    
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 50
